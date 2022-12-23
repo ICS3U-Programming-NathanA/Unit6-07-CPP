@@ -2,7 +2,8 @@
 //
 // Created by: Nathan Araujo
 // Date: Dec 17, 2022
-// This program splits sentences into separate words
+// This program splits sentences into separate words,
+// it then displays them
 
 #include <iostream>
 #include <list>
